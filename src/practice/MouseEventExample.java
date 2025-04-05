@@ -6,7 +6,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
-// Day20
+
 public class MouseEventExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("마우스 이벤트 예제");
